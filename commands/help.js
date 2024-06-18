@@ -2,7 +2,7 @@
 
   ________.__                        _____.___.___________
  /  _____/|  | _____    ____  ____   \__  |   |\__    ___/
-/   \  ___|  | \__  \ _/ ___\/ __ \   /   |   |  |    |   
+/   \  ___|  | \__  \ _/ ___\/ ___ \   /   |   |  |    |   
 \    \_\  \  |__/ __ \\  \__\  ___/   \____   |  |    |   
  \______  /____(____  /\___  >___  >  / ______|  |____|   
         \/          \/     \/    \/   \/                  
@@ -33,7 +33,7 @@ module.exports = {
 
       const embed = new EmbedBuilder()
          .setColor('#0099ff')
-      .setTitle('💎 Prime Music Bot')
+      .setTitle('HKBSubs Prime Music Bot')
       .setDescription('Welcome to the Music Bot!\n\n- Here are the available commands:\n\n' +
         '**/play :** Start playing the songs.\n' +
         '**/ping :** check bot latency.\n' +
