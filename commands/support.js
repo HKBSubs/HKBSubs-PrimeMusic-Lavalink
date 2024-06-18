@@ -37,7 +37,7 @@ module.exports = {
             .setColor('#b300ff')
             .setAuthor({
               name: 'Support Server',
-              iconURL: 'https://ibb.co/Y3hfn6d', 
+              iconURL: 'https://cdn.discordapp.com/attachments/889410374171000873/1252503117199573002/Screenshot_20240520-161600_1.png?ex=667273ed&is=6671226d&hm=d93e1ddf04abf0466f16c47a0d669e36f640607ace19bf228ad46921cddc7784&', 
               url: 'https://discord.com/invite/gW2dH5VsUz'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
