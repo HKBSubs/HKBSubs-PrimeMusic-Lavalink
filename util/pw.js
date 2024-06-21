@@ -1,5 +1,5 @@
 const status = "AUTOMATIC";
-const botName = "HKBSUBS PRIME MUSIC";
+const botName = "MUSICALINK";
 const Text = "HKBSubs";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
