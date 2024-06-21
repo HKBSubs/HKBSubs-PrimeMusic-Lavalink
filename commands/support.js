@@ -41,7 +41,7 @@ module.exports = {
               url: 'https://discord.com/invite/gW2dH5VsUz'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
-            .setImage('https://ibb.co/Y3hfn6d')
+            .setImage('https://cdn.discordapp.com/attachments/889410374171000873/1252503117199573002/Screenshot_20240520-161600_1.png?ex=667273ed&is=6671226d&hm=d93e1ddf04abf0466f16c47a0d669e36f640607ace19bf228ad46921cdd')
             .setTimestamp();
 
       return interaction.reply({ embeds: [embed] });
